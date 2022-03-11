@@ -2,8 +2,8 @@
    "files": [    
 
 {
-         "name": "DTAC-FREE-1",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-FREE-001.ovpn"
+         "name": "METFONE-FREE",
+         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/METFONE-FREE.ovpn"
      },
 
 {
@@ -105,6 +105,6 @@
 
    ],
 "message":"🔰TEST UPDATE",
-   "title":"NEW UPDATE AVAILABLE",
-   "version": 7
+   "title":"UPDATE ?",
+   "version": 8
 }
