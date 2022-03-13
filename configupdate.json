@@ -2,109 +2,168 @@
    "files": [    
 
 {
-         "name": "METFONE-FREE",
-         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/METFONE-FREE.ovpn"
+         "name": "FREEFIRE-SG1-GOLD",
+         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/FREEFIRE-SG1-SNS.ovpn"
      },
 
 {
-         "name": "DTAC-FREE-2",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-FREE-002.ovpn"
+         "name": "FREEFIRE-SG2-GOLD",
+         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/FREEFIRE-SG2-SNS.ovpn"
      },
 
 {
-         "name": "DTAC-VIP-1",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-VIP-01.ovpn"
+         "name": "FREEFIRE-SG3-GOLD",
+         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/FREEFIRE-SG3-SNS.ovpn"
      },
 
 {
-         "name": "DTAC-VIP-2",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-VIP-02.ovpn"
+         "name": "PUBG-SG1-GOLD",
+         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/PUBG-SG1-SNS.ovpn"
      },
 
 {
-         "name": "DTAC-VIP-3",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-VIP-03.ovpn"
+         "name": "PUBG-SG2-GOLD",
+         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/PUBG-SG2-SNS.ovpn"
      },
 
 {
-         "name": "DTAC-VIP-4",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-VIP-04.ovpn"
+         "name": "PUBG-SG3-GOLD",
+         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/PUBG-SG3-SNS.ovpn"
      },
 
 {
-         "name": "DTAC-VIP-5",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-VIP-05.ovpn"
+         "name": "MLBB-SG1-GOLD",
+         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/MLBB-SG1-SNS.ovpn"
      },
 
 {
-         "name": "DTAC-VIP-6",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-VIP-06.ovpn"
+         "name": "MLBB-SG2-GOLD",
+         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/MLBB-SG2-SNS.ovpn"
      },
 
 {
-         "name": "DTAC-VIP-7",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-VIP-07.ovpn"
+         "name": "MLBB-SG3-GOLD",
+         "url": "https://raw.githubusercontent.com/kiloda1/kikida/main/MLBB-SG3-SNS.ovpn"
       },
 
 {
-         "name": "DTAC-VIP-8",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-VIP-08.ovpn"
+         "name": "TIKTOK-SG1-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/TIKTOK-SG1-SNS.ovpn"
       },
 
 
 {
-         "name": "TRUE-FREE-1",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-FREE-001.ovpn"
+         "name": "TIKTOK-SG2-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/TIKTOK-SG2-SNS.ovpn"
       },
 
 {
-         "name": "TRUE-FREE-2",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-FREE-002.ovpn"
+         "name": "TIKTOK-SG3-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/TIKTOK-SG3-SNS.ovpn"
+      },
+      
+      
+{
+         "name": "LINE-SG1-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/LINE-SG1-SNS.ovpn"
+      },
+
+
+{
+         "name": "LINE-SG2-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/LINE-SG2-SNS.ovpn"
       },
 
 {
-         "name": "TRUE-VIP-1",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-VIP-01.ovpn"
+         "name": "LINE-SG3-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/LINE-SG3-SNS.ovpn"
+      },
+      
+      
+{
+         "name": "WECHAT-SG1-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/WECHAT-SG1-SNS.ovpn"
+      },
+
+
+{
+         "name": "WECHAT-SG2-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/WECHAT-SG2-SNS.ovpn"
       },
 
 {
-         "name": "TRUE-VIP-2",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-VIP-02.ovpn"
+         "name": "WECHAT-SG3-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/WECHAT-SG3-SNS.ovpn"
+      },
+      
+      
+{
+         "name": "FACEBOOK-SG1-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/FACEBOOK-SG1-SNS.ovpn"
+      },
+
+
+{
+         "name": "FACEBOOK-SG2-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/FACEBOOK-SG2-SNS.ovpn"
       },
 
 {
-         "name": "TRUE-VIP-3",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-VIP-03.ovpn"
+         "name": "FACEBOOK-SG3-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/FACEBOOK-SG3-SNS.ovpn"
+      },
+      
+      
+{
+         "name": "YOUTUBE-SG1-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/YOUTUBE-SG1-SNS.ovpn"
+      },
+
+
+{
+         "name": "YOUTUBE-SG2-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/YOUTUBE-SG2-SNS.ovpn"
       },
 
 {
-         "name": "TRUE-VIP-4",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-VIP-04.ovpn"
+         "name": "YOUTUBE-SG3-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/YOUTUBE-SG3-SNS.ovpn"
+      },
+      
+      {
+         "name": "VIBER-SG1-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/VIBER-SG1-SNS.ovpn"
+      },
+
+
+{
+         "name": "VIBER-SG2-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/VIBER-SG2-SNS.ovpn"
       },
 
 {
-         "name": "TRUE-VIP-5",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-VIP-05.ovpn"
+         "name": "VIBER-SG3-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/VIBER-SG3-SNS.ovpn"
+      },
+      
+      {
+         "name": "WHATSAPP-SG1-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/WHAPSAPP-SG1-SNS.ovpn"
+      },
+
+
+{
+         "name": "WHATSAPP-SG2-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/WHAPSAPP-SG2-SNS.ovpn"
       },
 
 {
-         "name": "TRUE-VIP-6",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-VIP-06.ovpn"
-      },
-
-{
-         "name": "TRUE-VIP-7",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-VIP-07.ovpn"
-      },
-
-{
-         "name": "TRUE-VIP-8",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-VIP-08.ovpn"
+         "name": "WHATSAPP-SG3-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/WHAPSAPPP-SG3-SNS.ovpn"
       }
-
-
+      
    ],
-"message":"🔰TEST UPDATE",
-   "title":"UPDATE ?",
-   "version": 8
+"message":"🔰UPDATE",
+   "title":"🔰 SERVER\n●TIKTOK\nFREEFIRE\n●MLBB\n●PUBG\n●LINE\n●WECHAT\n●VIBER\n●YOUTUBE\n●FACEBOOK",
+   "version": 2
 }
