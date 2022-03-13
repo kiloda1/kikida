@@ -160,10 +160,14 @@
 {
          "name": "WHATSAPP-SG3-GOLD",
          "url": "https://github.com/kiloda1/kikida/raw/main/WHAPSAPPP-SG3-SNS.ovpn"
+      },
+    {
+         "name": "METFONE-SG1-GOLD",
+         "url": "https://github.com/kiloda1/kikida/raw/main/METFONE-SG1-GOLD.ovpn"
       }
       
    ],
 "message":"🔰UPDATE",
    "title":"🔰 SERVER\n●TIKTOK\nFREEFIRE\n●MLBB\n●PUBG\n●LINE\n●WECHAT\n●VIBER\n●YOUTUBE\n●FACEBOOK",
-   "version": 2
+   "version": 3
 }
